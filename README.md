@@ -7,7 +7,9 @@
 - ✅ Hello-Gemini call working — see [Day1_Setup.ipynb](Day1_Setup.ipynb)
 - 4-tool comparison matrix from Lab 1A: see screenshot below
 
-  <img width="83" height="17" alt="image" src="https://github.com/user-attachments/assets/b8883a2b-135c-4e7e-8903-7cd70aab3981" />
+
+<img width="1162" height="193" alt="Screenshot 2026-05-18 at 2 27 17 PM" src="https://github.com/user-attachments/assets/3127b098-3c92-4a69-a45d-ab50967f4c1d" />
+
 
 
 
