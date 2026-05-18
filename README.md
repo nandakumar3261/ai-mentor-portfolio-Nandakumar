@@ -7,7 +7,8 @@
 - ✅ Hello-Gemini call working — see [Day1_Setup.ipynb](Day1_Setup.ipynb)
 - 4-tool comparison matrix from Lab 1A: see screenshot below
 
-  <img width="83" height="17" alt="image" src="https://github.com/user-attachments/assets/5f12dfb5-f17e-4a82-a1be-f4b077e5a54e" />
+  <img width="83" height="17" alt="image" src="https://github.com/user-attachments/assets/b8883a2b-135c-4e7e-8903-7cd70aab3981" />
+
 
 
 The 5-Layer AI Skill Pyramid illustrates the diverse and building-block nature of skills required for successful AI implementation, from foundational technical work to strategic leadership:
