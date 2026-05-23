@@ -22,4 +22,4 @@ The 5-Layer AI Skill Pyramid illustrates the diverse and building-block nature o
 
 
 # Day 5 — Résumé Scorer Streamlit 
-https://github.com/nandakumar3261/resume-scorer/tree/main
+[https://github.com/nandakumar3261/resume-scorer/tree/main](https://github.com/nandakumar3261/resume-scorer.git)
