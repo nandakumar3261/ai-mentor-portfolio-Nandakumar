@@ -19,3 +19,7 @@ The 5-Layer AI Skill Pyramid illustrates the diverse and building-block nature o
 *   **Domain Expertise & Application:** Mid-level skills involve deep understanding of specific business domains to effectively identify problems and apply AI solutions that create real value.
 *   **Responsible AI & Ethics:** Higher up, skills in AI ethics, explainability, fairness, and governance are critical to ensure trustworthy and impactful deployment.
 *   **Strategic Vision & Leadership:** The apex demands leadership and strategic thinking to define AI's overall purpose, drive innovation, and align AI initiatives with business goals for maximum impact.
+
+
+# Day 5 — Résumé Scorer Streamlit 
+https://github.com/nandakumar3261/resume-scorer/tree/main
