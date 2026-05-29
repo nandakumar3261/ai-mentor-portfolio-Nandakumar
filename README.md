@@ -23,3 +23,27 @@ The 5-Layer AI Skill Pyramid illustrates the diverse and building-block nature o
 
 # Day 5 — Résumé Scorer Streamlit 
 [https://github.com/nandakumar3261/resume-scorer/tree/main](https://github.com/nandakumar3261/resume-scorer.git)
+
+
+## Day 11 Lab 11A — Ollama Offline + Hybrid Fallback
+
+### Completed
+- ✅ Ollama installed locally
+- ✅ llama3.2 model downloaded
+- ✅ Offline AI tested after Wi-Fi disconnect
+- ✅ Gemini → Groq → Ollama fallback chain implemented
+- ✅ Force-failure testing completed
+- ✅ Local fallback verified
+
+### Demo Proof
+- Wi-Fi disconnect demo recorded
+- Fallback chain outputs captured
+
+### Reflection
+1. First inference is slow because the model loads into RAM.
+2. Ollama is useful for privacy, offline access, and zero per-call cost.
+3. Production AI systems should not depend on a single provider.
+
+### Architecture
+
+Gemini Cloud → Groq Cloud → Ollama Local
